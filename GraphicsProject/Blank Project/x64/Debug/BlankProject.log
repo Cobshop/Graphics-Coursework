@@ -1,0 +1,16 @@
+﻿  Renderer.cpp
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(114,69): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(119,181): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(135,24): warning C4244:  'argument': conversion from 'int' to 'const _Ty', possible loss of data
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(135,24): warning C4244:         with
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(135,24): warning C4244:         [
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(135,24): warning C4244:             _Ty=float
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(135,24): warning C4244:         ]
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(361,23): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(503,87): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(503,69): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(503,51): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(662,82): warning C4267:  'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(697,142): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Downloads\CSC8502 Coursework Ben Mandale\Blank Project\Renderer.cpp(697,100): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+  BlankProject.vcxproj -> H:\Downloads\CSC8502 Coursework Ben Mandale\x64\Debug\Blank Project.exe
